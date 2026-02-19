@@ -3,3 +3,9 @@ old models/
 old submission/
 venv/
 best_models/
+gifs_exports/
+__pycache__/
+tmr_notebooks/
+training_curves/
+best_model_v18.pt
+best_model_v19.pt
