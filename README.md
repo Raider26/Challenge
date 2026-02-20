@@ -16,7 +16,7 @@ Le dataset contient des **motions d'interaction à deux personnes** (donner un o
 |---|---|
 | Motions uniques | ~6 000 |
 | Format motion | `.npy` — shape `(T, 396)` — `T` frames, 44 joints × 9 dims |
-| Textes | 2–4 descriptions par motion (paraphrases) |
+| Textes | 3 descriptions par motion (paraphrases) |
 | Samples effectifs | ~18 000 (après duplication par texte) |
 | Évaluation | 30 batches × 32 candidats, 1 correct par batch |
 
